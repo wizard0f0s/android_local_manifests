@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="wizard0f0s/android_device_samsung_manta" path="device/samsung/manta" remote="github" />
+  <project name="wizard0f0s/android_kernel_samsung_manta" path="kernel/samsung/manta" remote="github" />
+  <project name="wizard0f0s/android_vendor_samsung_manta" path="vendor/samsung/manta" remote="github" />
+  <project name="wizard0f0s/android_vendor_audience" path="vendor/audience" remote="github" />
+  <project name="wizard0f0s/android_vendor_broadcom_manta" path="vendor/broadcom/manta" remote="github" />
+  <project name="wizard0f0s/android_vendor_widevine_manta" path="vendor/widevine/manta" remote="github" />
+</manifest>

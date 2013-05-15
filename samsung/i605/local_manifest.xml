@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="wizard0f0s/android_device_samsung_i605" path="device/samsung/i605" remote="github" revision="jellybean-mr1" />
+  <project name="wizard0f0s/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="jellybean-mr1" />
+  <project name="wizard0f0s/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="github" revision="jellybean-mr1" />
+  <project name="wizard0f0s/android_device_samsung_t0ltecdma" path="device/samsung/t0ltecdma" remote="github" revision="jellybean-mr1" />
+  <project name="wizard0f0s/android_device_samsung_t0lte" path="device/samsung/t0lte" remote="github" revision="jellybean-mr1" />
+  <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-10.1" />
+  <project name="wizard0f0s/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="jellybean-mr1" />
+  <project name="wizard0f0s/android_hardware_samsung" path="hardware/samsung" remote="github" revision="jellybean-mr1" />
+  <project name="wizard0f0s/android_vendor_samsung_t0ltecdma" path="vendor/samsung/t0ltecdma" remote="github" revision="jellybean-mr1" />
+  <project name="wizard0f0s/android_vendor_samsung_smdk4412-common" path="vendor/samsung/smdk4412-common" remote="github" revision="jellybean-mr1" />
+</manifest>
